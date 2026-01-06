@@ -10,8 +10,8 @@ class SmartAdvisor {
         this.apiConfig = {
             token: 'pat_B01eRE8GHgV2KD3I2u5MSYsqZLNLrqC4VU0sAv3VRR6nJPQZlV3zu33LelO1Jq1m',
             baseURL: 'https://api.coze.cn',
-            workflowId: '7554244256456032295',
-            botId: '7553901337742802980'
+            workflowId: '7592265575780106286',
+            botId: '7492684336836296704'
         };
 
         // 用于保存原始消息内容的数组
