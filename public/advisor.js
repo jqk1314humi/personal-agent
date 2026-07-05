@@ -8,7 +8,7 @@ class SmartAdvisor {
         this.questionItems = document.querySelectorAll('.question-item');
 
         this.apiConfig = {
-            token: 'pat_B01eRE8GHgV2KD3I2u5MSYsqZLNLrqC4VU0sAv3VRR6nJPQZlV3zu33LelO1Jq1m',
+            token: 'pat_Tq3IW6GxoGzRW9yafDFC7l9xcAUxFiGBFRlokuWEgsaiL7Dt1MERqfnhbJNYOgfb',
             baseURL: 'https://api.coze.cn',
             workflowId: '7592265575780106286',
             botId: '7553901337742802980'
